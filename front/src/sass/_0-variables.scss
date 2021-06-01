@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;700;900&display=swap");
+$body-bg: #ffffff;
+$body-color: #000000;
+
+$theme-colors: (
+  "primary": #4178b0,
+  "secondary": #dea01e,
+  "light-blue": rgba(219, 242, 255, 0.5),
+  "footer-bg": #7bace8,
+);
+
+$font-size-base: 1.25rem;
+$font-size-sm: $font-size-base * 0.2;
+$font-family-base: "Cairo", sans-serif;
+$enable-responsive-font-sizes: true;
+
+//Include all of Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
