@@ -20,3 +20,7 @@ MONGOURI=[Yoururl]
 ```bash
 npm run dev
 ```
+
+
+## screenshot
+![Alt text](https://github.com/mahmoudabdelaziz1993/Tqnia/blob/main/screencapture.png?raw=true )
